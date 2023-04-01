@@ -1,4 +1,4 @@
-# Greeter Happy24 Club сувагт зориулав 
+# Happy24 Club сувагт зориулав 
 https://www.youtube.com/channel/UC3PL8FtJojmo72ZCsuVSz5Q
 Манай телеграм: https://t.me/Happy24chanel                                                                                                                                                                                     
 ZkSync Era-гын ёсны хөтөч: https://era.zksync.io/docs/dev/building-on-zksync/hello-world.html болон https://era.zksync.io/docs/api/hardhat/getting-started.html#learn-more Goerli цорго: https://goerlifaucet.com/ ;  
