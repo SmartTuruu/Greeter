@@ -5,7 +5,7 @@ ZkSync тестийн тохиргоо: https://era.zksync.io/docs/dev/troublesh
 zksync era туршилтын сүлжээнд шилжүүлэх гүүр: https://portal.zksync.io/bridge; 
 Гэрээ болон гүйлгээг шалгах Explorer: https://goerli.explorer.zksync.io/ ; 
 
-Үйлдлүүд: 
+# Үйлдлүүд: 
 1. Visual Studio кодыг татаж авах (хэрэв байхгүй бол): https://code.visualstudio.com/ 
 2. Бид VSC (Solidity, npm Intellisense) дээр шаардлагатай өргөтгөлүүдийг нэмдэг, хэрэв VSC дээр ажиллах явцад алдаа гарч, баруун доод буланд багцуудыг татаж авахыг санал болгосон цонх гарч ирвэл - зөвшөөрч байна (хүн бүр өөр өөр зүйлтэй байж болно), тэгээд багцаас( ip, node.js гэх мэт) дутаж болно гараар суулгана (Интернет дээр маш олон гарын авлага байдаг)
 3. Энэ репозитороос VSC руу холбоос нэмнэ үү: https://github.com/SmartTuruu/Greeter 
