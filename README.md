@@ -2,6 +2,7 @@
 # Манай телеграм: https://t.me/Happy24chanel                                                                                                                                                                                     
 ZkSync Era-гын ёсны хөтөч: https://era.zksync.io/docs/dev/building-on-zksync/hello-world.html болон https://era.zksync.io/docs/api/hardhat/getting-started.html#learn-more Goerli цорго: https://goerlifaucet.com/ ;  
 ZkSync тестийн тохиргоо: https://era.zksync.io/docs/dev/troubleshooting/important-links.html ; 
+
 zksync era туршилтын сүлжээнд шилжүүлэх гүүр: https://portal.zksync.io/bridge; 
 Гэрээ болон гүйлгээг шалгах Explorer: https://goerli.explorer.zksync.io/ ; 
 
